@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bersama-berita.github.io/top-news/sitemap.xml
